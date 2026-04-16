@@ -5,7 +5,7 @@ using namespace metal;
 // Shader dumped from BotW 208, using Cemu 2193a8c
 // Should work on Splatoon too
 // Based on 0b9b8f5dfa16ad58_0000000000000000_vs.txt
-// Used For: Horizontal Menu Blur
+// Used for: Horizontal Menu Blur Pass
 
 constant float resXScale = float($width) / float($gameWidth);
 
